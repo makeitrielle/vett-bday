@@ -41,6 +41,9 @@ function TheBirthdayLetter() {
                     <img src="img/letter2.png" alt="letter" className="img-small"/>
                     <span className="btn-text">Jam</span>
                 </button>
+            </div>
+            
+             <div className="img-btn">
                 <button className="img-button" onClick={() => openPopup("img/ashy.png")}>
                     <img src="img/letter2.png" alt="letter" className="img-small"/>
                     <span className="btn-text">Ashy</span>
@@ -64,6 +67,9 @@ function TheBirthdayLetter() {
                     <img src="img/letter2.png" alt="letter" className="img-small"/>
                     <span className="btn-text">Maui</span>
                 </button>
+            </div>
+
+             <div className="img-btn">
                 <button className="img-button" onClick={() => openPopup("img/niah.png")}>
                     <img src="img/letter2.png" alt="letter" className="img-small"/>
                     <span className="btn-text">Niah</span>
